@@ -148,11 +148,11 @@ Welcome to Modern Periodic Table
 
 >Enter 1 to know about an element
 >Enter 2 to close the periodic table
-ENETR
+ENTER
 1
 
 >Press 3 to search the element by atomic number
-ENETR
+ENTER
 3
 Enter the atomic number of the element to be searched: 1
 
