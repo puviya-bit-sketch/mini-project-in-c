@@ -41,11 +41,8 @@ It allows the user to interact with a menu-driven interface to view information 
    - If you choose not to close, the program lets you continue to enter an atomic number and see element details.
 
 ## Code
-'''text
-//modern periodic table	
-
+```
 #include<stdio.h>
-
 int main()
 {
     int n;
@@ -53,7 +50,7 @@ int main()
     int a;
     int Exit;
     int Exi;
-     
+    
     printf("Welcome to Modern Periodic Table\n\n");
     
     printf(">Enter 1 to know about an element\n\n");
@@ -144,7 +141,7 @@ int main()
         }
     } 
 }		
-
+```
 ## Example Interaction
 ```text
 Welcome to Modern Periodic Table
